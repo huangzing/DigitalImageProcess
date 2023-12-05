@@ -15,11 +15,11 @@
 2. DenseNet：Densely Connected Convolutional Networks
   （稠密连接神经网络）
 3. UNet系列
-
+  （类似U型结构，有下采样和上采样，挺有意思）
 *4. MobileNet系列
-
+  （轻量级的网络，深度可分离的思想）
 *5. ShuffleNet系列
-
+  （轻量级的网络，考虑到通道之间的“通信”的问题）
 
 
 三、基础底层视觉任务
